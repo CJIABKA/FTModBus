@@ -10,4 +10,4 @@ ProjectPath = u'C:\\Share\\FAM3'
 MB = Project(BasePath, ProjectPath)
 MB.main()
 
-print (u'Обработка закончена')
+print (u'Обработка закончена ')
